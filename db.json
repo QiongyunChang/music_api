@@ -1,0 +1,40 @@
+{
+    "music": [
+        {
+            "id": 0,
+            "singer": "AJ Mitchell",
+            "song": " like strangers do",
+            "date":"10/18/2019",
+            "description": "(C) 2019 Epic Records, a division of Sony Music Entertainment ",
+            "website":"https://smarturl.it/LikeStrangersDo",
+            "singer info":
+            [
+                {
+                    "born":" 05/17/2001",
+                    "full name": "Aaron Fredrick Mitchell Jr.",
+                    "Genres":"Pop and R&B"
+                }
+                
+            ]
+        },
+
+        {
+            "id": 1,
+            "singer": "alexander stewart",
+            "song": " backward",
+            "date":"10/18/2019",
+            "description": "Song written by - Alexander Stewart, Martin Kierszenbaum, Ellee Duke, Dave Aude, and Jerry Fuentes.",
+            "website":"hyperurl.co/backwards",
+            "singer info":
+            [
+                {
+                    "born":" 08/27/1999 Canadia",
+                    "full name": "Alexander Stewart",
+                    "Genres":"Pop and R&B"
+                }
+                
+            ]
+         }
+
+]
+}
